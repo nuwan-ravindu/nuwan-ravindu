@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nuwan-ravindu
-- 👀 I’m interested in computer science
+- 👀 I’m interested in computer science and newly upcoming technologies
 - 🌱 I’m currently learning java language.
 - 📫 How to reach me nuwan.ravindu.123@gmail.com
 
